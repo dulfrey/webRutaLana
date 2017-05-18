@@ -1,27 +1,17 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+# [Ruta de la lana](https://armando-suenos.000webhostapp.com/ruta-de-la-lana/) - [Casa Taller Armando Sueños](https://armando-suenos.000webhostapp.com/ruta-de-la-lana/)
 
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) is a one page freelancer portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, and a working PHP contact form.
+La [ruta de la lana](https://armando-suenos.000webhostapp.com/ruta-de-la-lana/) es una iniciativa de la Casa Taller La Casa del Arbol, creada con el fin de mostrar los procesos relacionados con la producción de lana y sus derivados. 
 
-## Getting Started
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* Fork the repo
+## Creador
 
-## Bugs and Issues
+Este proyecto web fue creado por **[Dulfrey Hernández](https://twitter.com/dulfrey)**, como parte del proyecto "DISEÑO DE UN MODELO DE PUBLICIDAD PARA LA PROMOCIÓN DE LA RUTA DE LA LANA EN EL MUNICIPIO DE GUASCA" para la materia TPI Taller de Proyectos Interdiciplinarios de la [Facultad de Ingeniería](http://ingenieria.unal.edu.co/), [Universidad Nacional de Colombia](http://unal.edu.co/).
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-freelancer/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+* https://twitter.com/dulfrey
+* https://github.com/dulfrey
 
-## Creator
+Este sitio web es basado en [Bootstrap](http://getbootstrap.com/) framework creado por [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+## Copyright y Licencia
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2017 Dulfrey Hernández. Código liberado bajo licencia [MIT](https://github.com/dulfrey/webRutaLana/blob/master/LICENSE).
